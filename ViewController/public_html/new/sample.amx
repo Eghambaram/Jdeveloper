@@ -9,7 +9,7 @@
       <amx:commandButton id="cb1"/>
     </amx:facet>
     <amx:facet name="secondary">
-      <amx:commandButton id="cb2"/>
+      <amx:commandButton id="cbghytyty2"/>
     </amx:facet>
   </amx:panelPage>
 </amx:view>
