@@ -10,6 +10,7 @@
     </amx:facet>
     <amx:facet name="secondary">
       <amx:commandButton id="cbghytyty2"/>
+      <books>
     </amx:facet>
   </amx:panelPage>
 </amx:view>
